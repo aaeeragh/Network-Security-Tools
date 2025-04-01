@@ -10,6 +10,6 @@ def analyze_headers(url):
     except Exception as e:
         print(f"Error: {e}")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     url = input("Enter URL to analyze: ")
     analyze_headers(url)
