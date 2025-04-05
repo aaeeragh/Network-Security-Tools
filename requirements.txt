@@ -1,0 +1,11 @@
+Install -
+  pip3
+  Scapy 
+  Windows - Winpcap
+  Linux/Macos- Libpcap
+  random
+  platform
+  argparse
+  Homebrew // for mac users (package manager for easy downloads)
+  
+  
